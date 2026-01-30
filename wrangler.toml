@@ -5,4 +5,4 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "social_db"
-database_id = "PASTE_ID_HERE"
+database_id = "dd53f4a8-e32c-4fd8-9a00-d8dab08fcb28"
