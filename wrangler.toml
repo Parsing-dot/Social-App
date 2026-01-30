@@ -1,0 +1,8 @@
+name = "social-backend"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "social_db"
+database_id = "PASTE_ID_HERE"
