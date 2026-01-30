@@ -1,4 +1,4 @@
-const API_URL = "https://YOUR_BACKEND_URL"; // e.g. https://api.example.com
+const API_URL = "https://socialapp.parsing700.workers.dev"; // e.g. https://api.example.com
 
 const postsContainer = document.getElementById("posts");
 const usernameInput = document.getElementById("username");
